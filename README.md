@@ -9,10 +9,9 @@ Written by Emmanuel Borishade
  4. Enjoy results.
  5. Enter new file, or **"exit"** to exit
 
-## Status: 
- Stable:
+## Status: Stable
 
-* To Fix: 
+###### To Fix: 
  > depending on what style of graph you use (starting vertex at 0 vs starting vertex at 1), there may be 
  > an extra empty element printed out when result is returned. 
  > This could be "fixed" by adding an additional condition to while loop
