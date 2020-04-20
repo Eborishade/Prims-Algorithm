@@ -23,9 +23,9 @@ Written by Emmanuel Borishade
  > Program crash on certain files: NumberFormatException
 
 ## Features:
- >*stats* command: prints additional developer information for testing
- >*print* command: prints out graph
- >*normalize* command: normalize graph for better printing
- >*prims* command: prints out minimum spanning tree
- >*help* command: print commands
- >*exit* command: exit program
+* *stats* command: prints additional developer information for testing
+* *print* command: prints out graph
+* *normalize* command: normalize graph for better printing
+* *prims* command: prints out minimum spanning tree
+* *help* command: print commands
+* *exit* command: exit program
